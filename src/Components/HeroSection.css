@@ -1,0 +1,26 @@
+.Container{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+.grid-two-columns{
+    display: grid;
+    grid-gap: 7rem;
+    grid-template-columns: repeat(2,1fr);
+    margin: 40px 80px;
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-right: 7%;
+    
+}
+
+/* img{
+    height: auto;
+    width: 70%;
+    z-index: 0;
+    padding-top: 30px;
+    border-radius: 70px 100px;
+    
+} */
+figure{
+    background-image: url(blobs_cover-1-removebg-preview.png);
+}  
